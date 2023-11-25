@@ -51,6 +51,12 @@
                             <a href="#" class="btn btn-dark text-light"><img src="search.ico" alt="google" style="width:27px; padding-right:5px"> Or sign in with google</a>
                         </div>
                     </div>
+
+                    <div class="row" style="border: 1px solid black;">
+                        <div class="col col-lg-5 text-dark justify-content-center align-items-center text-center">
+                            Tidak Punya akun ? <a href="#" class="link">Daftar disini !</a>
+                        </div>
+                    </div>
                 </form>
 
             </div>
